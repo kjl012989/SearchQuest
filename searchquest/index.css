@@ -1,0 +1,11 @@
+#errors {
+    color: red;
+    white-space: pre-line;
+}
+
+#output .tweet .user {
+    font-weight: bold;
+}
+.pads{
+    margin:10px; padding:10px; 
+}
